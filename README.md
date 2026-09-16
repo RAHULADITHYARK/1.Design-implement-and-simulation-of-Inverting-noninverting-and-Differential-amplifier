@@ -1,3 +1,4 @@
+
 # 1.Design-implement-and-simulation-of-Inverting-noninverting-and-Differential-amplifier
 
 **AIM:**
@@ -74,50 +75,86 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
 **PIN DIAGRAM:**
 
+<img width="623" height="293" alt="image" src="https://github.com/user-attachments/assets/a6910844-6f43-4795-8e49-5af96fbb0596" />
+
+
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  
+  <img width="776" height="378" alt="image" src="https://github.com/user-attachments/assets/2faabc37-51ec-487b-8706-a33138048251" />
 
 
   **MODEL GRAPH:**
+  
+<img width="532" height="372" alt="image" src="https://github.com/user-attachments/assets/120c5c43-9ab2-4e63-b090-28c9229b6868" />
 
 
   **TABULATION:**
- 
+  
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 50 14 AM" src="https://github.com/user-attachments/assets/41ecc359-c179-4b05-9195-64425c569735" />
 
-**MODEL CALCULATION:**
+ 
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  
+  <img width="733" height="340" alt="image" src="https://github.com/user-attachments/assets/f9f191d7-546c-4a50-a675-8d92ebf942bd" />
+
 
 
   **MODEL GRAPH:**
+  
+<img width="467" height="306" alt="image" src="https://github.com/user-attachments/assets/41a15669-0c06-44cb-af40-a0038b01f6f5" />
 
 
   **TABULATION:**
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 50 22 AM" src="https://github.com/user-attachments/assets/120a20de-ac59-457d-8aea-56da5f11bef9" />
+
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  
+<img width="748" height="442" alt="image" src="https://github.com/user-attachments/assets/30c981ed-fe57-41bd-b9dc-d299e29e3ee9" />
 
 
   **MODEL GRAPH:**
+  
+<img width="722" height="315" alt="image" src="https://github.com/user-attachments/assets/44269c6a-e557-49e2-866f-773f2da6c114" />
 
 
   **TABULATION:**
 
-**LT-SPICE Tool:PROCEDURE:**
-•	Double click on LT-Spice icon.
-•	New schematic window open.
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 50 31 AM" src="https://github.com/user-attachments/assets/448d192c-1159-4870-9826-942424ad0142" />
+
+  **Graph**
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 49 43 AM" src="https://github.com/user-attachments/assets/4538f4b6-cc6c-4913-93ce-741d156c8bdb" />
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 49 56 AM" src="https://github.com/user-attachments/assets/f56079ef-c768-427b-a1be-d2f1a6fb08f4" />
+
+**LT-SPICE Tool:**<BR/>
+***PROCEDURE:***<BR/>
+•	Double click on LT-Spice icon.<BR/>
+•	New schematic window open.<BR/>
 •	Pick and paste the required component from the library and draw the circuit diagram .
-•	Complete the connection.
-•	Save the file by giving file name.
-•	Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
-•	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
+<BR/>•	Complete the connection.
+<BR/>•	Save the file by giving file name.
+<BR/>•	Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
+<BR/>•	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+
+  <img width="1536" height="472" alt="WhatsApp Image 2026-07-30 at 9 11 57 AM (2)" src="https://github.com/user-attachments/assets/8b9cc114-ead9-4e89-a9c5-3f1aeaa3f1d2" />
+
+<img width="1372" height="381" alt="WhatsApp Image 2026-07-30 at 9 11 57 AM (1)" src="https://github.com/user-attachments/assets/ba3e6893-2519-4e1f-9c08-d50306d6013f" />
+
+<img width="1473" height="391" alt="WhatsApp Image 2026-07-30 at 9 11 57 AM" src="https://github.com/user-attachments/assets/abfb8df5-5c86-4f82-8c17-b9e85442c831" />
+
 
 **RESULT:**
+
 Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
  
 
