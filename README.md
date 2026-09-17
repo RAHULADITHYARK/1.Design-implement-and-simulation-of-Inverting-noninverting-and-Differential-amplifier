@@ -91,9 +91,8 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
   **TABULATION:**
   
-<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 50 14 AM" src="https://github.com/user-attachments/assets/41ecc359-c179-4b05-9195-64425c569735" />
+<img width="708" height="1370" alt="image" src="https://github.com/user-attachments/assets/b4f8d648-07e6-4026-b2c4-753674b318be" />
 
- 
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
@@ -109,7 +108,8 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
   **TABULATION:**
 
-<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 50 22 AM" src="https://github.com/user-attachments/assets/120a20de-ac59-457d-8aea-56da5f11bef9" />
+<img width="693" height="1452" alt="image" src="https://github.com/user-attachments/assets/dbdfd6ea-730b-4f31-9632-3ade714916e8" />
+
 
 
   **DIFFERENTIAL AMPLIFIER:**
@@ -125,13 +125,14 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
   **TABULATION:**
 
-<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 50 31 AM" src="https://github.com/user-attachments/assets/448d192c-1159-4870-9826-942424ad0142" />
+<img width="1423" height="876" alt="image" src="https://github.com/user-attachments/assets/9918c747-c301-46e0-bb79-3f3451a32c7d" />
+
 
   **Graph**
 
-<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 49 43 AM" src="https://github.com/user-attachments/assets/4538f4b6-cc6c-4913-93ce-741d156c8bdb" />
-
-<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 49 56 AM" src="https://github.com/user-attachments/assets/f56079ef-c768-427b-a1be-d2f1a6fb08f4" />
+<img width="1019" height="1406" alt="image" src="https://github.com/user-attachments/assets/70ff8f57-d502-47a0-87bd-7bf5f23e22af" />
+<img width="1080" height="1437" alt="image" src="https://github.com/user-attachments/assets/bbcf5d99-6267-4586-8bc2-f195f261d326" />
+<img width="1080" height="1349" alt="image" src="https://github.com/user-attachments/assets/4896d2ab-3268-460f-9b3a-d4cb0d5315bf" />
 
 **LT-SPICE Tool:**<BR/>
 ***PROCEDURE:***<BR/>
